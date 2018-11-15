@@ -10,6 +10,14 @@ This is an implementation in python using matplotlib. I've calculated a lot of x
 - pandas
 
 # Examples
+## GIF
+- 13 control points
+![](https://i.imgur.com/TRvd77H.gif)
+
+- 5 contrl points
+![](https://i.imgur.com/qU4m3ws.gif)
+
+## PNGs
 - 3 control points
 
 ![](https://i.imgur.com/Jzdiem7.png)
