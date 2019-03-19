@@ -11,6 +11,11 @@ This is an implementation in python using matplotlib. I've calculated a lot of x
 5. See the curve being made dynamically
 6. Either goto step 3 or exit
 
+# TODO
+- Make the control points interactive
+- Make a GUI to select bg, point, line color etc
+
+
 # Requirements
 - python 3+
 - matplotlib
